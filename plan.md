@@ -17,6 +17,7 @@
 * Meet supervisor
 * Explore the concept of data augmentation
 * Research the literature on the use of synthetic data
+* Run Pix2Vox on Colab
 
 - **Week 3**
 - **Week 4**
