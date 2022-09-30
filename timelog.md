@@ -23,3 +23,4 @@
 
 - _1 hour_ Read 3D-R2N2 paper
 - _0.5 hour_ Setting up GitLab repository
+- _0.5 hour_ Trying to use pre-trained Pix2Vox models using my Laptop
