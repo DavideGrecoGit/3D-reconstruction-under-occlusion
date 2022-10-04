@@ -20,8 +20,18 @@
 * Run Pix2Vox on Colab
 
 - **Week 3**
+* Run ONet 
+
 - **Week 4**
+* Better understand the ShapeNet Dataset
+* How can the models be modified?
+
 - **Week 5**
+* Explore augmentation techniques
+* Generate backgrounds
+* Filters (such as blur and noise)
+* Lighting
+
 - **Week 6**
 - **Week 7**
 - **Week 8**
