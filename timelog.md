@@ -42,3 +42,7 @@
 - _1.5 hour_ Meeting preparation (writing down questions, possible ideas to pursue and salient information I found reading papers)
 - _1.5 hour_ Exploring the litterature looking for 3D object generation using GANs (SDF-StyleGAN seems promising)
 - _1 hour_ Exploring the litterature looking for 2D image generation using Gans (StyleGAN-XL seems promising)
+
+### 5 Oct 2022
+
+- _1 hour_ Making notes of "Image-Based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning"
