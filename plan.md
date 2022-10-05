@@ -20,10 +20,13 @@
 * Run Pix2Vox on Colab
 
 - **Week 3**
+* Overcome the limitations of Colab
 * Run ONet 
+* Run Pix2Vox
+* Explore the state-of-the-art GANs for data generation (2D and 3D)
 
 - **Week 4**
-* Better understand the ShapeNet Dataset
+* Better understanding the ShapeNet Dataset
 * How can the models be modified?
 
 - **Week 5**
