@@ -46,3 +46,4 @@
 ### 5 Oct 2022
 
 - _1 hour_ Making notes of "Image-Based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning"
+- _1 hour_ Updating GitLab repository (Creating Issues, updating wiki content and sidebar, updating the plan)
