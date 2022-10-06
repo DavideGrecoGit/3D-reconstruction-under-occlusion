@@ -47,3 +47,7 @@
 
 - _1 hour_ Making notes of "Image-Based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning"
 - _1 hour_ Updating GitLab repository (Creating Issues, updating wiki content and sidebar, updating the plan)
+- _1.5 hour_ Successfully running Stable Diffusion on Colab
+
+### 6 Oct 2022
+- _0.5 hour_ Seaching how ONet deals with background in real-world images: the background is removed using masks before giving it to the model.
