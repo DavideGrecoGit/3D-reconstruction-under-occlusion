@@ -51,3 +51,6 @@
 
 ### 6 Oct 2022
 - _0.5 hour_ Seaching how ONet deals with background in real-world images: the background is removed using masks before giving it to the model.
+
+### 7 Oct 2022
+- _0.5 hour_ Setting up script for committing from Colab to GitLab
