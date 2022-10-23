@@ -54,3 +54,18 @@
 
 ### 7 Oct 2022
 - _0.5 hour_ Setting up script for committing from Colab to GitLab
+
+### 9 Oct 2022
+- _3.5 hours_ Exploring Img2Img and Dreambooth for 2D images generation
+- _1 hour_ Running pre-trained Pix2Vox models 
+- _1 hour_ Trying to use ONet on Colab (pre-processing the input is not feasible due to hardware requirements)
+
+## Week 4 
+### 10-16 Oct 2022 - No updates due to Covid
+
+## Week 5
+### 17-22 Oct 2022 - No updates due to Covid
+### 23 Oct 2022 
+- _1 hour_ Setting up conda environment for 3DAttriFlow
+- _1 hour_ Updating GitLab repository
+
