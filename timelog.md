@@ -69,3 +69,7 @@
 - _1 hour_ Setting up conda environment for 3DAttriFlow
 - _1 hour_ Updating GitLab repository
 
+## Week 6
+- _3 hours_ Finishing setting up 3DAttriFlow and Successfully running it
+- _1.5 hours_ Researching about inpainting with Python
+
