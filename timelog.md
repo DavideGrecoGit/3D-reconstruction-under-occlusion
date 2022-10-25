@@ -74,3 +74,8 @@
 - _3 hours_ Finishing setting up 3DAttriFlow and Successfully running it
 - _1.5 hours_ Researching about inpainting with Python
 
+### 25 Oct 2022
+- _0.5 hour_ Reading about Mask R-CNN
+- _1 hours_ Reading about Pallette and MAT
+- _2 hours_ Successfully running MAT
+- _0.5 hour_ Reading about ImageNet dataset
