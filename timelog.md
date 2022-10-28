@@ -79,3 +79,7 @@
 - _1 hours_ Reading about Pallette and MAT
 - _2 hours_ Successfully running MAT
 - _0.5 hour_ Reading about ImageNet dataset
+
+### 28 Oct 2022
+- _2 hours_ Resizing and pre-processing of ShapeNet dataset to be used with MAT
+- _1.5 hours_ Cuda and torch installation 
