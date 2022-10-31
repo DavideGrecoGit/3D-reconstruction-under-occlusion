@@ -87,3 +87,6 @@
 ### 29 Oct 2022
 - _3 hours_ Trying to install torch compatible with my CUDA and the requirements of MAT
 - _2 hours_ Installing Lambda Stack
+
+### 31 Oct 2022
+- _1 hour_ Setting up "test" training of 3DAttriFlow
