@@ -82,4 +82,8 @@
 
 ### 28 Oct 2022
 - _2 hours_ Resizing and pre-processing of ShapeNet dataset to be used with MAT
-- _1.5 hours_ Cuda and torch installation 
+- _1.5 hours_ Cuda and torch installation (Not successful)
+
+### 29 Oct 2022
+- _3 hours_ Trying to install torch compatible with my CUDA and the requirements of MAT
+- _2 hours_ Installing Lambda Stack
