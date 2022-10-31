@@ -86,6 +86,7 @@
 
 ### 29 Oct 2022
 - _3 hours_ Trying to install torch compatible with my CUDA and the requirements of MAT
+- _2 hours_ Trying to solve issues with MAT and its libraries 
 - _2 hours_ Installing Lambda Stack
 
 ### 31 Oct 2022
