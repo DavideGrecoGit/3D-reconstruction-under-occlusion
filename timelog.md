@@ -89,5 +89,9 @@
 - _2 hours_ Trying to solve issues with MAT and its libraries 
 - _2 hours_ Installing Lambda Stack
 
+## Week 7
 ### 31 Oct 2022
-- _1 hour_ Setting up "test" training of 3DAttriFlow
+- _1 hour_ Setting up "test" training of 3DAttriFlow (Not successful)
+
+### 1 Nov 2022
+- _2 hours_ Debugging 3DAttriFlow code for training
