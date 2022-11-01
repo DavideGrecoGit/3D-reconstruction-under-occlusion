@@ -94,4 +94,6 @@
 - _1 hour_ Setting up "test" training of 3DAttriFlow (Not successful)
 
 ### 1 Nov 2022
-- _2 hours_ Debugging 3DAttriFlow code for training
+- _2 hours_ Debugging 3DAttriFlow default code for training
+- _1 hour_ Debugging additional errors of 3DAttriFlow's default code
+- _1 hour_ Setting up Palette's config and downloading test dataset, trying to test it but got errors: the given test dataset and .list file do not match 
