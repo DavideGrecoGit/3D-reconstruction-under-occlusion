@@ -97,3 +97,8 @@
 - _2 hours_ Debugging 3DAttriFlow default code for training
 - _1 hour_ Debugging additional errors of 3DAttriFlow's default code
 - _1 hour_ Setting up Palette's config and downloading test dataset, trying to test it but got errors: the given test dataset and .list file do not match 
+
+## Week 8
+### 6 Nov 2022
+- _1 hour_ Eploring Pixel2Mesh
+- _1.5 hours_ Exploring conditional image generation
