@@ -102,4 +102,4 @@
 ### 6 Nov 2022
 - _1 hour_ Eploring Pixel2Mesh
 - _1.5 hours_ Exploring conditional image generation
-- _1 hour_ Successfully training Palette
+- _1 hour_ Successfully training Palette on subset of Places365
