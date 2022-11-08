@@ -99,7 +99,12 @@
 - _1 hour_ Setting up Palette's config and downloading test dataset, trying to test it but got errors: the given test dataset and .list file do not match 
 
 ## Week 8
-### 6 Nov 2022
+### 7 Nov 2022
 - _1 hour_ Eploring Pixel2Mesh
 - _1.5 hours_ Exploring conditional image generation
 - _1 hour_ Successfully training Palette on subset of Places365
+
+### 8 Nov 2022
+- _1 hour_ Configuring Palette to be trained on a subset of ShapeNet
+- _1.5 hours_ Experimenting with different files and configurations
+- _1 hour_ Updating and Organising GitLab repository
