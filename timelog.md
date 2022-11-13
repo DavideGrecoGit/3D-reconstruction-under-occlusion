@@ -108,3 +108,6 @@
 - _1 hour_ Configuring Palette to be trained on a subset of ShapeNet
 - _1.5 hours_ Experimenting with different files and configurations
 - _1 hour_ Updating and Organising GitLab repository
+
+### 13 Nov 2022
+- _2 hours_ Trying to remotely access Desktop PC (outside LAN) using Remmina (With and without SSH) and NoMachine
