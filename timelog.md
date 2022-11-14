@@ -111,3 +111,10 @@
 
 ### 13 Nov 2022
 - _2 hours_ Trying to remotely access Desktop PC (outside LAN) using Remmina (With and without SSH) and NoMachine
+
+## Week 9
+### 14 Nov 2022
+- _1 hour_ Installing dependencies for OccupancyNetworks
+- _1 hour_ Trainig Palette using irregular masks and ShapeNet subset
+- _1.5 hours_ Trying to fix corrupted hard disk where the data for OccupancyNetworks is stored (data has been lost)
+- _1 hour_ Setting up and launching training of Pix2Vox
