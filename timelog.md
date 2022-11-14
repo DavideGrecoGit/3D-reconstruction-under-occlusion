@@ -118,3 +118,4 @@
 - _1 hour_ Trainig Palette using irregular masks and ShapeNet subset
 - _1.5 hours_ Trying to fix corrupted hard disk where the data for OccupancyNetworks is stored (data has been lost)
 - _1 hour_ Setting up and launching training of Pix2Vox
+- _0.5 hour_ Updating Wiki with Palette training results
