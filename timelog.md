@@ -126,3 +126,5 @@
 - _1 hour_ Trying to fix corrupted hard disk
 - _0.5 hour_ Masking Pix3D images using the provided masks
 - _1 hour_ Exploring state of the art for object detection (Considreing mmdetection)
+- _2 hours_ Making diagrams
+- _0.5 hour_ Updating the wiki
