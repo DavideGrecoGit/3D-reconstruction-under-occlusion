@@ -121,3 +121,8 @@
 - _0.5 hour_ Updating Wiki with Palette training results
 - _1 hour_ Fixing issues with Pix2Vox and starting training on full Chair subset 
 - _1.5 hour_ Trying different batch size and num_workers for Palette
+
+### 15 Nov 2022
+- _1 hour_ Trying to fix corrupted hard disk
+- _0.5 hour_ Masking Pix3D images using the provided masks
+- _1 hour_ Exploring state of the art for object detection (Considreing mmdetection)
