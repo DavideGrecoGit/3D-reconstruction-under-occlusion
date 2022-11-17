@@ -128,3 +128,13 @@
 - _1 hour_ Exploring state of the art for object detection (Considreing mmdetection)
 - _2 hours_ Making diagrams
 - _0.5 hour_ Updating the wiki
+
+### 16 Nov 2022
+- _1 hour_ Setting up Palette for training without a starting checkpoint
+- _1 hour_ Clearing log data and making graphs of Palette training
+- _0.5 hour_ Setting up Palette for training using place2 pre-trained checkpoint
+
+### 17 Nov 2022
+- _0.5 hour_ Clearing log data and making graphs of Palette training
+- _1.5 hours_ Setting up Palette on Colab
+- _0.5 hour_  Making some tries and launching the training of Palette on Colab
