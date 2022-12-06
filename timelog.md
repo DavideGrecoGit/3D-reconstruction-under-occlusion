@@ -140,5 +140,8 @@
 - _0.5 hour_  Making some tries and launching the training of Palette on Colab
 
 ### 23 Nov 2022
-- _0.5 hour_ Writing a cript to convert ShapeNet (chair category) to gray
-- _0.5 hour_ Starting
+- _0.5 hour_ Writing a script to convert ShapeNet (chair category) to gray
+- _0.5 hour_ Setting up Palette config for training
+
+### 5 Dec 2022
+- _1 hour_ Augmenting data and palette training
