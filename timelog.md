@@ -138,3 +138,7 @@
 - _0.5 hour_ Clearing log data and making graphs of Palette training
 - _1.5 hours_ Setting up Palette on Colab
 - _0.5 hour_  Making some tries and launching the training of Palette on Colab
+
+### 23 Nov 2022
+- _0.5 hour_ Writing a cript to convert ShapeNet (chair category) to gray
+- _0.5 hour_ Starting
