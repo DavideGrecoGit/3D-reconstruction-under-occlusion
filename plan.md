@@ -47,26 +47,44 @@
 * Train and Evaluate models on the new dataset
 
 ## Winter break
+- Fine-tuning Pix2Vox on OccShapeNet
 
 ## Spring Semester
 
 - **Week 13**
-* Write a model that replaces the use of pre-trained ones
+    * Evaluation base Pix2Vox model on OccShapeNet and Pix3D
+    * Evaluation of fine-tuned Pix2Vox on OccShapeNet and Pix3D
+    * Document the results and plot the relative graphs
+
 - **Week 14**
-* Write a model that replaces the use of pre-trained ones
+    * Selection Inpainting model
+    * Solve implementation and requrements issues
 - **Week 15**
-* Write a model that replaces the use of pre-trained ones
+    * Fine-tune inpainting model if needed
+    * Evaluation of Inpainting + base Pix2Vox on OccShapeNet
+    * Document the results and plot the relative graphs
 - **Week 16**
-* Evaluate models
+    * Additional week for solving unexpected issues
 - **Week 17**
-* Evaluate models
+    * Selection Masking model
+    * Solve implementation and requrements issues
 - **Week 19**
-* Evaluate models
+    * Fine-tune masking model if needed
+    * Evaluation of Masking + Inpainting + base Pix2Vox on Pix3D
+    * Document the results and plot the relative graphs
 - **Week 20**
-* Write Dissertation
+    * Additional week for solving unexpected issues
+    * Otherwise, plan how to combine mask + inpainting + Pix2Vox in a single model and start working on it
 - **Week 21**
-* Write Dissertation
+    * Additional week for solving unexpected issues
+    * Otherwise, combine the model and solve the relative issues
 - **Week 22**
-* Write Dissertation
+    * If no additional issues arose, start background training of combined model
+    * Collect final results, re-organise data and write dissertation
 - **Week 23 [TERM ENDS]**
+    * Continue background training of combined model
+    * Collect final results, re-organise data and write dissertation
 - **Week 24** Dissertation submission deadline and presentations.
+    * Collect final results, re-organise data and write dissertation
+    * Send dissertation
+
