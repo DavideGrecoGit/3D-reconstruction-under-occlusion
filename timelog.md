@@ -146,6 +146,9 @@
 ### 5 Dec 2022
 - _1 hour_ Augmenting data and palette training
 
+### 12 Dec 2022
+- _3.5 hours_ Defining the plan of the next semester
+
 ### 13 Dec 2022
 - _3 hours_ Exploring 3D diffusion models such as Get3D
 - _3 hours_ Exploring image segmentation models and using Mask R-CNN TF2 model 
