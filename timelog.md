@@ -152,3 +152,15 @@
 ### 13 Dec 2022
 - _3 hours_ Exploring 3D diffusion models such as Get3D
 - _3 hours_ Exploring image segmentation models and using Mask R-CNN TF2 model 
+
+### 17 Dec 2022
+- _3 hours_ Fixing issues with Pix2Vox DataLoader
+
+### 18 Dec 2022
+- _1.5 hours_ Setting up and starting training of Pix2Vox with Random Erasing, masks between 32 and 64
+
+### 19 Dec 2022
+- _1.5 hours_ Setting up training of Pix2Vox with Random Erasing, masks between 64 and 128
+
+### 20 Dec 2022
+- _1.5 hours_ Setting up training of Pix2Vox with Random Erasing, masks between 32 and 128
