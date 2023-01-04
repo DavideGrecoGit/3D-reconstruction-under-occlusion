@@ -167,3 +167,6 @@
 
 ### 28 Dec 2022
 - _4 hours_ Reading about GANs and fine-tuning FasterRCNN for single-class detection
+
+### 4 Jan 2023
+- _1 hour_ Fixing 3D plot visualisation
