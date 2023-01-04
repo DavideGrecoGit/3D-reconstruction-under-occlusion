@@ -171,3 +171,4 @@
 ### 4 Jan 2023
 - _1 hour_ Fixing 3D plot visualisation
 - _1 hour_ Fixing voxel rotation
+- _2 hour_ Testing and exploring evaluation methods
