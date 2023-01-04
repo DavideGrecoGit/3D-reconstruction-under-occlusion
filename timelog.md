@@ -164,3 +164,6 @@
 
 ### 20 Dec 2022
 - _1.5 hours_ Setting up training of Pix2Vox with Random Erasing, masks between 32 and 128
+
+### 28 Dec 2022
+- _4 hours_ Reading about GANs and fine-tuning FasterRCNN for single-class detection
