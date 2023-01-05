@@ -175,3 +175,4 @@
 
 ### 5 Jan 2023
 - _4 hours_ Generating OccShapeNet for testing
+- _2.5 hours_ Writing evaluation script
