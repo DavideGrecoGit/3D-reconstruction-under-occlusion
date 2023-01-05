@@ -172,3 +172,6 @@
 - _1 hour_ Fixing 3D plot visualisation
 - _1 hour_ Fixing voxel rotation
 - _2 hour_ Testing and exploring evaluation methods
+
+### 5 Jan 2023
+- _4 hours_ Generating OccShapeNet for testing
