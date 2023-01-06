@@ -178,4 +178,4 @@
 - _2.5 hours_ Writing evaluation script
 
 ### 6 Jan 2023
-- _2 hours_ Continuing evaluation script
+- _5 hours_ Continuing evaluation script
