@@ -179,3 +179,5 @@
 
 ### 6 Jan 2023
 - _5 hours_ Continuing evaluation script
+- _1 hour_ Running evaluations and collecting results
+
