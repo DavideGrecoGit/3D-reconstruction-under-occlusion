@@ -187,4 +187,5 @@
 ### 9 Jan 2023
 - _1 hour_ Trying to evaluate Pix2Vox on Pix3D
 - _2 hours_ Solving issues and converting Pix3D obj models to binvox
+- -3 hours_ Solving environment issues of Stable Diffusion
 
