@@ -184,3 +184,7 @@
 ### 7 Jan 2023
 - _3 hours_ Testing SD
 
+### 9 Jan 2023
+- _1 hour_ Trying to evaluate Pix2Vox on Pix3D
+- _2 hours_ Solving issues and converting Pix3D obj models to binvox
+
