@@ -181,3 +181,6 @@
 - _5 hours_ Continuing evaluation script
 - _1 hour_ Running evaluations and collecting results
 
+### 7 Jan 2023
+- _3 hours_ Testing SD
+
