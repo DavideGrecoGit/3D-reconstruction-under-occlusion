@@ -189,3 +189,6 @@
 - _2 hours_ Solving issues and converting Pix3D obj models to binvox
 - _3 hours_ Solving environment issues of Stable Diffusion
 
+### 11 Jan 2023
+- _1.5 hours_ Solving new issues of binvox models
+
