@@ -191,4 +191,5 @@
 
 ### 11 Jan 2023
 - _1.5 hours_ Solving new issues of binvox models
+- _1.5 hours_ Exploring hyper-parameters for Stable Diffusion
 
