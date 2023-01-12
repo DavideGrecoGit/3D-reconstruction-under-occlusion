@@ -193,3 +193,5 @@
 - _1.5 hours_ Solving new issues of binvox models
 - _1.5 hours_ Exploring hyper-parameters for Stable Diffusion
 
+### 12 Jan 2023
+- _2 hours_ Designing data collection of experiments
