@@ -196,3 +196,5 @@
 ### 12 Jan 2023
 - _2 hours_ Designing data collection of experiments
 - _3 hours_ Writing and testing script for data collection
+- _3 hours_ Set up for evaluating using Pix3D
+- _0.5 hour_ Fixing OccShapeNet colors
