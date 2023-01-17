@@ -198,3 +198,6 @@
 - _3 hours_ Writing and testing script for data collection
 - _3 hours_ Set up for evaluating using Pix3D
 - _0.5 hour_ Fixing OccShapeNet colors
+
+### 17 Jan 2023
+- _1.5 hours_ Updating Dissertation with evaluation tables
