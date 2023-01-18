@@ -201,3 +201,6 @@
 
 ### 17 Jan 2023
 - _1.5 hours_ Updating Dissertation with evaluation tables
+
+### 18 Jan 2023
+- _2 hour_ Trying different versions of Stable Diffusion that run with low vram
