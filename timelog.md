@@ -204,3 +204,7 @@
 
 ### 18 Jan 2023
 - _2 hour_ Trying different versions of Stable Diffusion that run with low vram
+
+### 19 Jan 2023
+- _1 hour_ Watching tutorial on docker
+- _3 hour_ Solving Docker issues and trying to install the docker for Optimized Stable Diffusion
