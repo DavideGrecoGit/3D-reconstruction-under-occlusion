@@ -208,3 +208,7 @@
 ### 19 Jan 2023
 - _1 hour_ Watching tutorial on docker
 - _3 hour_ Solving Docker issues and trying to install the docker for Optimized Stable Diffusion
+
+### 23 Jan 2023
+- _0.5 hour_ Learning about subprocess
+- _3.5 hours_ Fixing translation and rotation of binvox models, converting Pix3D dataset and evaluating it on Pix2Vox-A
