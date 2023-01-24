@@ -215,3 +215,4 @@
 
 ### 24 Jan 2023
 - _1.5 hours_ Re-installing SD dependencies and fixing issues
+- _0.5 hour_ General reading about SD Samplers
