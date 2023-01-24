@@ -212,6 +212,7 @@
 ### 23 Jan 2023
 - _0.5 hour_ Learning about subprocess
 - _4 hours_ Fixing translation and rotation of binvox models, converting Pix3D dataset and evaluating it on Pix2Vox-A
+- _2 hours_ Reading more about GANs and SD 
 
 ### 24 Jan 2023
 - _1.5 hours_ Re-installing SD dependencies and fixing issues
