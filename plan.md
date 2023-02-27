@@ -51,7 +51,7 @@
 
 ## Spring Semester
 
-- **Week 13**
+- **Week 13** 
     * Evaluation base Pix2Vox model on OccShapeNet and Pix3D
     * Evaluation of fine-tuned Pix2Vox on OccShapeNet and Pix3D
     * Document the results and plot the relative graphs
@@ -73,11 +73,11 @@
     * Evaluation of Masking + Inpainting + base Pix2Vox on Pix3D
     * Document the results and plot the relative graphs
 - **Week 20**
-    * Additional week for solving unexpected issues
-    * Otherwise, plan how to combine mask + inpainting + Pix2Vox in a single model and start working on it
+    * Fine-Tuning Pix3D models
+    * Use of LambdaStack for generating inpainting datasets
 - **Week 21**
-    * Additional week for solving unexpected issues
-    * Otherwise, combine the model and solve the relative issues
+    * Perform inpainting experiments
+    * Perform fine-tuning experiments
 - **Week 22**
     * If no additional issues arose, start background training of combined model
     * Collect final results, re-organise data and write dissertation
