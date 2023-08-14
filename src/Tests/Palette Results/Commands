@@ -1,7 +1,0 @@
-grep 'train/mse_loss' train.log | sed 's/22.*: //' | tr -d " \t\r"  > mse_loss.csv
-grep 'val/mae' train.log | sed 's/22.*: //' | tr -d " \t\r" > val_mae_loss.csv
-
-
-
-grep 'Time' Results.txt | sed 's/22.* //' | tr -d " seconds\t\r" > x.txt
-
