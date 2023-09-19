@@ -90,7 +90,7 @@ Following the explanation of the files used for the generation and analysis of t
         - gt_path -> path to the original dataset
         - save_path ->  output path for the generated .csv files 
 
-### BibTex
+# BibTex
 
 (Just in case someone needs it! :D)
 
