@@ -102,7 +102,7 @@ Following the explanation of the files used for the generation and analysis of t
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/DavideGrecoGit/3D-reconstruction-under-occlusion}},
-  commit = {c9f3d6f}
+  commit = {a5a1e55}
 }
 ```
 
