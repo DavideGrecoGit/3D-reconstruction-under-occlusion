@@ -1,15 +1,20 @@
-### Exploring 3D reconstruction from RGB images of partially occluded objects
+# Exploring 3D reconstruction from RGB images of partially occluded objects
 This project aims to explore the impact of occlusion on [Pix2Vox](https://arxiv.org/abs/1901.11153), a multi-view reconstruction model, and possible approaches for improving its generated 3D shapes. In this work erasing data augmentation techniques have been used for generating occluded versions of the [ShapeNet](https://arxiv.org/abs/1512.03012) dataset and [StableDiffusion](https://arxiv.org/abs/2112.10752) for inpainting the occluded images before feeding them to Pix2Vox. Results show that the developed approach improves the performance of the baseline by 51\% on severe occlusion. Interestingly, fine-tuning the Pix2Vox model using occluded images by 30% to 40%, further improves the performance by 97% on severe occlusion. Additionally, the approach improves the generalisation and performance on the [Pix3D](https://arxiv.org/abs/1804.04610) dataset by 16%.
 
+### 3D reconstruction sample results
+![3D-voxels-samples](https://github.com/DavideGrecoGit/3D-reconstruction-under-occlusion/blob/main/CompareFineTunedModels/3D_voxels_samples.png?raw=true)
 
-### Downloads
+### Inpainting sample results
+![inpainting-samples](https://github.com/DavideGrecoGit/3D-reconstruction-under-occlusion/blob/main/DatasetGeneration/Inpainting_samples.png)
+
+
+# Downloads
 | Fine-tuned model | Link | Size |
 | ------ | ------ | ------ |
 | Erasing_10_20 | https://drive.google.com/file/d/1uY-8hL4IyEawBANTp96bHdRS2mcVQPwX/view?usp=drive_link | 1.12 GB |
 | Erasing_20_30 | https://drive.google.com/file/d/1kchDamWWg1qXQCJPJtkqT2R3wP37J3g8/view?usp=drive_link | 1.11 GB |
 | Erasing_30_40 | https://drive.google.com/file/d/1OfWwCTJDL7DgFDYk_3zIVzddPkt8gEMG/view?usp=drive_link | 1.12 GB |
 | Erasing_10_40 | https://drive.google.com/file/d/1mndFOrewWJJJCx23ZzPd-fkQUjRN2T-8/view?usp=drive_link | 1.12 GB |
-
 
 | Dataset | Link | Size |
 | ------ | ------ | ------ |
@@ -19,6 +24,7 @@ This project aims to explore the impact of occlusion on [Pix2Vox](https://arxiv.
 | Pix3D images & voxelized models | http://pix3d.csail.mit.edu/data/pix3d.zip | 3.5 GB |
 
 
+# File structure
 ### Pix2Vox
 Instructions on how to run Pix2Vox can be found [here](https://github.com/hzxie/Pix2Vox). 
 The code in this repository is a modified version that supports erasing for augmenting input images and allows to save the voxels of the specified samples as images.
@@ -84,4 +90,19 @@ Following the explanation of the files used for the generation and analysis of t
         - gt_path -> path to the original dataset
         - save_path ->  output path for the generated .csv files 
 
+### BibTex
+
+(Just in case someone needs it! :D)
+
+```
+@misc{Greco2023exploring,
+  title = {Exploring 3D reconstruction from RGB images of partially occluded objects},
+  author = {Davide Greco},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/DavideGrecoGit/3D-reconstruction-under-occlusion}},
+  commit = {c9f3d6f}
+}
+```
 
