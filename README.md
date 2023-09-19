@@ -1,4 +1,4 @@
-### Reconstructing 3D Object Models from RGB Image/Videos
+### Exploring 3D reconstruction from RGB images of partially occluded objects
 This project aims to explore the impact of occlusion on [Pix2Vox](https://arxiv.org/abs/1901.11153), a multi-view reconstruction model, and possible approaches for improving its generated 3D shapes. In this work erasing data augmentation techniques have been used for generating occluded versions of the [ShapeNet](https://arxiv.org/abs/1512.03012) dataset and [StableDiffusion](https://arxiv.org/abs/2112.10752) for inpainting the occluded images before feeding them to Pix2Vox. Results show that the developed approach improves the performance of the baseline by 51\% on severe occlusion. Interestingly, fine-tuning the Pix2Vox model using occluded images by 30% to 40%, further improves the performance by 97% on severe occlusion. Additionally, the approach improves the generalisation and performance on the [Pix3D](https://arxiv.org/abs/1804.04610) dataset by 16%.
 
 
